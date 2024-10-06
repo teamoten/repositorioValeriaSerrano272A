@@ -1,0 +1,51 @@
+body {
+    background: #a1bad6;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    padding: 5%;
+}
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #555;
+}
+#num1,#num2,#num3 {
+    font-size: 1.8em;
+    font-style: normal;
+    margin-bottom: 20px;
+    color: #512b52 
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+}
+button:hover {
+    background-color: #0056b3;
+}
+p {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #333;
+}
+#salida {
+    font-weight: bold;
+    color: #231b9c;
+}
+#frase {
+    font-style: italic;
+    color: #555;
+}
